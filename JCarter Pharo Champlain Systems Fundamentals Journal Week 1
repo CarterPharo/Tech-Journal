@@ -1,0 +1,5 @@
+Number systems are ways that we represent data, humans primarily use base 10, meaning there are ten symbols with different values, if you want to represent more then
+ten values you must use more then one symbol. Computers use binary, which is a base two number system, it represents data through either a 0 or a 1, so if you wanted
+to represent 2 from base ten, you would write 10, so you have a 1 in the twos place and a 0 in the ones place. Another common number system is Hexadecimal,
+which uses base sixteen, it uses the 0-9 symbols from base ten and also the letters a-f to represent 11-16 in base ten, if you wanted to represent the number 15 in
+hexadecimal, you would only write 'F', if you wanted to represent 17 from base ten in hexadecimal, you would write 11.
